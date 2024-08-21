@@ -83,12 +83,12 @@ The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwY
 - **Delivery Time Distribution**: Analyze the distribution of delivery times to understand how long it typically takes to deliver orders. Identify any patterns that could indicate operational inefficiencies.
 - **Delivery Time Variance Distribution**: Compare actual delivery times against estimated delivery times. High variance indicates discrepancies between expected and actual delivery times, potentially leading to customer dissatisfaction. Reduce the variance between estimated and actual delivery times by improving forecasting accuracy and operational efficiency.
 
-**On-time vs. Late Delivery analysis**
+**On-time vs. Late Delivery Analysis**
 
 - **On-time vs. Late Delivery by Stage**: Examine average times for different stages (approval, processing, shipping) and their impact on on-time and late deliveries. This helps identify issues in the entire delivery process.
 - **On-time vs. Late Delivery by Product Category**: Identify which product categories have higher on-time and late delivery rates. This can reveal if certain categories face more logistical challenges (e.g., packaging, handling) or delays.
 
-**Regional Performance**
+**Regional Delivery Performance**
 
 - **State Analysis**: Review delivery metrics by state to identify regional performance differences. This helps pinpoint areas with higher or lower delivery performance and adjust strategies accordingly. For regions with higher late delivery rates, enhance logistical support, improve local partnerships, or optimize delivery routes.
 
