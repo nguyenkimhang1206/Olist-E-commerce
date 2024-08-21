@@ -73,9 +73,10 @@ The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiMTk0Z
 
 ## 5. Delivery Dashboard Insights Summary
 
-The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwYzk5ZDEtMGNlNS00NGU0LTljZjYtMGY2MzNiYzJiMjBkIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ==) This dashboard enables users to filter by payment, product, state, and time, and focuses on trends and values in following key metrics: Total Orders, Order Fulfillment Rate, Average Delivery Time, On-Time Delivery Rate, Late Delivery Rate
+The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiOGZhMmY0OWMtODY3NC00OGQ4LWJlM2EtM2VmOWFlYmU1NzdkIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ%3D%3D) This dashboard enables users to filter by payment, product, state, and time, and focuses on trends and values in following key metrics: Total Orders, Order Fulfillment Rate, Average Delivery Time, On-Time Delivery Rate, Late Delivery Rate
 
-![image](https://github.com/user-attachments/assets/6eaf6192-3ec0-4b28-ab3a-05738edbc19b)
+![image](https://github.com/user-attachments/assets/906e3c7f-7f3a-45fb-92e1-9d4a3e98072e)
+
 
 **Delivery Performance**
 
