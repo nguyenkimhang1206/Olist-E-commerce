@@ -51,7 +51,8 @@ The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiY2RlZm
 
 The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiMTk0ZDJiMjYtMTBlOC00YjI4LThjNzgtOGYzMGJlZGNiNWIwIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ%3D%3D) This dashboard enables users to filter by product, state, and time, and focuses on trends and values in following key metrics: Total Customers, New Customers, Repeat Customer Rate, Revenue per Customer, Average Purchase Frequency, Average Review Score
 
-![image](https://github.com/user-attachments/assets/d7660086-9a47-40a8-95a5-c07a636059c7)
+![image](https://github.com/user-attachments/assets/d6f660ec-d32b-4cf2-8909-3d27ab3b2624)
+
 
 
 **Customer Segmentation**
