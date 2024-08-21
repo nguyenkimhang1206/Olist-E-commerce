@@ -21,3 +21,8 @@ Olist is an e-commerce platform that connects small and medium-sized businesses 
 ## Dataset Structure
 ![image](https://github.com/user-attachments/assets/d039c97b-e8d2-46a8-b4ca-0bad412f58bc)
 
+## Sales Dashboard Insights Summary
+
+![image](https://github.com/user-attachments/assets/26c2c54a-5ebb-49d2-83db-a8c795b8f838)
+
+
