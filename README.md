@@ -131,8 +131,8 @@ The customer dashboard focuses on the following key metrics:
 ### Delivery Dashboard Key Metrics
 
 - **Total Orders**: The total number of orders placed by customers within a specified period.
-- **Order Fulfillment Rate**: The percentage of orders that are successfully fulfilled and shipped according to the original order details within a given time frame.
+- **Order Fulfillment Rate**: The percentage of orders that are successfully fulfilled and shipped within a given time frame.
 - **Average Delivery Time**: The average amount of time taken from when an order is placed to when it is delivered to the customer.
-- **On-Time Delivery Rate**: The percentage of orders that are delivered by the promised or expected delivery date.
-- **Late Delivery Rate**: The percentage of orders that are delivered after the promised or expected delivery date. This metric highlights issues with delays in the delivery process and its impact on customer satisfaction
+- **On-Time Delivery Rate**: The percentage of orders that are delivered by the estimated delivery date.
+- **Late Delivery Rate**: The percentage of orders that are delivered after the estimated delivery date.
 
