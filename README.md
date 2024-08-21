@@ -75,8 +75,8 @@ The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwY
 
 **Delivery Performance**
 
-- **Order Fulfillment Rate**: Evaluate the proportion of orders fulfilled within the expected time frame. A high fulfillment rate indicates efficient operations, while a low rate may signal issues.
-- **On-time vs. Late Delivery Rates**: Determine the percentage of on-time deliveries versus late deliveries. This helps assess overall delivery performance and identify areas needing improvement.
+- **Order Fulfillment Rate**: Evaluate the proportion of orders fulfilled within the specific time. A high fulfillment rate indicates efficient operations, while a low rate may signal issues.
+- **On-time vs. Late Delivery Rate**: Determine the percentage of on-time deliveries versus late deliveries. This helps assess overall delivery performance and identify areas needing improvement.
 
 **Delivery Time Analysis**
 
