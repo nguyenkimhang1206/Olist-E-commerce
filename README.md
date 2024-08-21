@@ -32,12 +32,12 @@ The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZDcwYz
 **Sales Performance**
 
 - **Trend Analysis**: Evaluate how Total Orders and Gross Revenue have changed compared to previous month. This helps identify growth trends or declines in sales performance.
-- **Day of the Week**: Identify which days have the highest and lowest Total Orders and Gross Revenue. This can help optimize staffing, promotional efforts, and inventory levels for peak days.
-- **Hour of the Day**: Determine peak shopping hours. This can assist in scheduling promotions and improving website performance during high-traffic times.
+- **Day of Week**: Identify which days have the highest and lowest Total Orders and Gross Revenue. This can help optimize staffing, promotional efforts, and inventory levels for peak days.
+- **Hour of Day**: Determine peak shopping hours. This can assist in scheduling promotions and improving website performance during high-traffic times.
 
 **Customer Behavior**
 
-- **Average Order Value (AOV)**: Analyze how AOV trends over time. A rising AOV suggests that customers are spending more per transaction, while a declining AOV could indicate reduced spending or promotions affecting spending behavior. Consider strategies to boost AOV, such as bundling products, offering discounts on higher-value orders, or implementing loyalty programs.
+- **Average Order Value (AOV)**: Analyze how AOV change over time. A rising AOV suggests that customers are spending more per transaction, while a declining AOV could indicate reduced spending or promotions affecting spending behavior. Consider strategies to boost AOV, such as bundling products, offering discounts on higher-value orders, or implementing loyalty programs.
 - **Average Basket Size**: Assess changes in Average Basket Size to understand if customers are buying more items per order. This can indicate whether your cross-selling strategies are effective.
 - **Payment Method**: Analyze the distribution of payment types. If a particular payment method dominates, consider enhancing support and promotions for less popular methods to improve their adoption.
 
