@@ -10,9 +10,9 @@ The Olist solution is a link between brands and the public, with the aim of simp
 
 ### Goal
 
-- **Sales dashboard:** to provide a detailed and timely overview of key sales metrics for each month, facilitating informed decision-making and tactical adjustments.
+- **Sales dashboard:** to provide a detailed and timely overview of key sales metrics on a monthly basis, facilitating informed decision-making and tactical adjustments.
 - **Customer dashboard:** to provide a comprehensive view of customer metrics and behavior on a monthly basis, enabling data-driven marketing strategies and campaign optimization.
-- **Delivery dashboard:**  to provide a detailed and actionable view of delivery performance metrics, enabling efficient management of logistics and operational processes.
+- **Delivery dashboard:**  to provide a detailed and actionable view of delivery performance metrics on a monthly basis, enabling efficient management of logistics and operational processes.
 
 ## 2. Dataset Structure
 
