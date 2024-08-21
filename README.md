@@ -20,13 +20,14 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 
 This dataset consisted of  9 tables can be found [here](https://github.com/nguyenkimhang1206/Olist-E-commerce/blob/main/Data%20Dictionary%20of%20Olist%20E-commerce.xlsx).
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/c6911f45-81e1-4469-98c6-a412e0c6ec86/Untitled.png)
+![image](https://github.com/user-attachments/assets/4b2d5889-1007-46f0-bbad-312704476640)
 
 ## 3. Sales Dashboard Insights Summary
 
 The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZDcwYzk5ZDEtMGNlNS00NGU0LTljZjYtMGY2MzNiYzJiMjBkIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ%3D%3D). This dashboard enables users to filter by payment, product, state, and time, and focuses on trends and values in following key metrics: Total Orders, Gross Revenue, Average Order Value (AOV), Average Basket Size, and Order Cancellation Rate.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/65e44b87-a760-4a82-9d01-e5f78bd01e58/image.png)
+![image](https://github.com/user-attachments/assets/995788a3-6cf1-4135-bd79-e37405167227)
+
 
 **Sales Performance**
 
@@ -48,7 +49,7 @@ The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZDcwYz
 
 The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwYzk5ZDEtMGNlNS00NGU0LTljZjYtMGY2MzNiYzJiMjBkIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ==) This dashboard enables users to filter by product, state, and time, and focuses on trends and values in following key metrics: Total Customers, New Customers, Repeat Customer Rate, Revenue per Customer, Average Purchase Frequency, Average Review Score
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/65897afc-03a9-4f32-b09d-934688472222/image.png)
+![image](https://github.com/user-attachments/assets/27723106-436b-449e-85a0-1f1e1c4dd2e8)
 
 **Customer Segmentation**
 
@@ -70,7 +71,7 @@ The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwY
 
 The dashboard can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiZDcwYzk5ZDEtMGNlNS00NGU0LTljZjYtMGY2MzNiYzJiMjBkIiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ==) This dashboard enables users to filter by payment, product, state, and time, and focuses on trends and values in following key metrics: Total Orders, Order Fulfillment Rate, Average Delivery Time, On-Time Delivery Rate, Late Delivery Rate
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/82d1326c-58c0-417b-be0f-ee10e9019a92/image.png)
+![image](https://github.com/user-attachments/assets/6eaf6192-3ec0-4b28-ab3a-05738edbc19b)
 
 **Delivery Performance**
 
