@@ -26,7 +26,9 @@ This dataset consisted of  9 tables can be found [here](https://www.kaggle.com/d
 
 The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiY2RlZmMwOTItZWMyMS00OTk0LWIwODYtMGFjYzdiMDYxYmQ5IiwidCI6ImFmZTAyN2Y5LWIxYmMtNGY4ZS05MjdlLTI5YjNiNjFkOWRhNCIsImMiOjEwfQ%3D%3D). This dashboard enables users to filter by payment, product, state, and time, and focuses on trends and values in following key metrics: Total Orders, Gross Revenue, Average Order Value (AOV), Average Basket Size, and Order Cancellation Rate.
 
-![image](https://github.com/user-attachments/assets/995788a3-6cf1-4135-bd79-e37405167227)
+
+![image](https://github.com/user-attachments/assets/f236cf61-1609-46bf-9cff-0af397e1e4d5)
+
 
 
 **Sales Performance**
