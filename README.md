@@ -18,7 +18,7 @@ The Olist solution is a link between brands and the public, with the aim of simp
 
 The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
-This dataset consisted of  9 tables can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Data dictionary can be found [here](https://github.com/nguyenkimhang1206/Olist-E-commerce/blob/main/Data%20Dictionary%20of%20Olist%20E-commerce.xlsx)
+This dataset consisted of  9 tables can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Data dictionary can be found [here].(https://github.com/nguyenkimhang1206/Olist-E-commerce/blob/main/Data%20Dictionary%20of%20Olist%20E-commerce.xlsx)
 
 ![image](https://github.com/user-attachments/assets/4b2d5889-1007-46f0-bbad-312704476640)
 
